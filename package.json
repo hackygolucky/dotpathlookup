@@ -1,6 +1,6 @@
 {
   "name": "dotpathlookup",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A tiny module that takes a dotpath string and returns the value of that path from the object, written as part of a tutorial on Javascript.",
   "main": "index.js",
   "scripts": {
