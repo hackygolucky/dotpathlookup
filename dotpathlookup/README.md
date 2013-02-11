@@ -4,8 +4,8 @@ A small module that takes a dotpath string and returns the value of that path fr
 
 ```javascript
 var parse = require('dotpathlookup');
-var my_function = parse('{check:{it:{out:"woop woop"}}}');
-var obj = {"woop woop"};
+var my_function = parse('check.it.out');
+var obj = {check:{it:{out:"woop woop"}}};
 
 console.log(my_function(obj));  // === "woop woop"
 ```
