@@ -1,7 +1,7 @@
 {
   "name": "dotpathlookup",
   "version": "0.0.0",
-  "description": "A small module that takes a dotpath string and returns the value of that path from the object, written as part of a tutorial on Javascript.",
+  "description": "A tiny module that takes a dotpath string and returns the value of that path from the object, written as part of a tutorial on Javascript.",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
@@ -13,11 +13,10 @@
   "keywords": [
     "object",
     "lookup",
-    "tutorial",
-    "simple"
+    "simple",
+    "tutorial"
   ],
-  "author": "Tracy Abrahms",
+  "author": "Tracy Abrahms <tracyabrahms@gmail.com>",
   "license": "MIT",
-  "readmeFilename": "README.md",
-  "gitHead": "1c335cca9ecbf89c0f7c9abaa75396a45cc3d986"
+  "readmeFilename": "README.md"
 }
