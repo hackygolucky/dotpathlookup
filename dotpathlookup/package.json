@@ -1,0 +1,23 @@
+{
+  "name": "dotpathlookup",
+  "version": "0.0.0",
+  "description": "A small module that takes a dotpath string and returns the value of that path from the object, written as part of a tutorial on Javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hackygolucky/dotpathlookup.git"
+  },
+  "keywords": [
+    "object",
+    "lookup",
+    "tutorial",
+    "simple"
+  ],
+  "author": "Tracy Abrahms",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "1c335cca9ecbf89c0f7c9abaa75396a45cc3d986"
+}
